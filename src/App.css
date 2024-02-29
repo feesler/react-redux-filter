@@ -9,7 +9,7 @@ body {
 
 .service-form {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
   align-items: flex-end;
   margin: 2rem;
 }
