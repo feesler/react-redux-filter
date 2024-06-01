@@ -6,7 +6,7 @@ import {
   UPDATE_FILTER,
   REMOVE_SERVICE,
   RESET_SERVICE_FORM,
-} from '../actions/actionTypes';
+} from '../actions/actionTypes.js';
 
 /**
  * Checks item to match filter

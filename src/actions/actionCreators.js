@@ -7,7 +7,7 @@ import {
   CHANGE_SERVICE_FIELD,
   INVALIDATE_SERVICE_FIELD,
   RESET_SERVICE_FORM,
-} from './actionTypes';
+} from './actionTypes.js';
 
 export function addService(name, price) {
   return { type: ADD_SERVICE, payload: { name, price } };

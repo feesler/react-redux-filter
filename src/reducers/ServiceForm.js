@@ -5,7 +5,7 @@ import {
   UPDATE_SERVICE,
   SELECT_UPDATE_SERVICE,
   RESET_SERVICE_FORM,
-} from '../actions/actionTypes';
+} from '../actions/actionTypes.js';
 
 const initialValues = {
   name: '',

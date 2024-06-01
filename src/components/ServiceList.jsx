@@ -1,7 +1,7 @@
 import React from 'react';
 import classNames from 'classnames';
 import { useSelector, useDispatch } from 'react-redux';
-import { updateFilter, selectUpdateService, removeService } from '../actions/actionCreators';
+import { updateFilter, selectUpdateService, removeService } from '../actions/actionCreators.js';
 import { ReactComponent as UpdateIcon } from '../assets/edit.svg';
 import { ReactComponent as DeleteIcon } from '../assets/close.svg';
 

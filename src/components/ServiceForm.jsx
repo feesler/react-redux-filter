@@ -7,7 +7,7 @@ import {
   changeServiceField,
   invalidateServiceField,
   resetServiceForm,
-} from '../actions/actionCreators';
+} from '../actions/actionCreators.js';
 
 
 const ServiceForm = () => {
